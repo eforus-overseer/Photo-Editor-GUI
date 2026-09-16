@@ -1,5 +1,4 @@
-#   Name: Efi Pecani
-#   ID: 307765230 
+############## IMAGE PROCESSING ##############
 
 from tkinter import *         #import all of this stuff in order to wor kwith tkinter methods
 import tkinter as tk
