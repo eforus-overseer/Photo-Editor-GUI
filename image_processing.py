@@ -1,5 +1,4 @@
-#   Name: eforus-overseer
-#   ID: [ID REMOVED] 
+############## IMAGE PROCESSING ##############
 
 from tkinter import *         #import all of this stuff in order to wor kwith tkinter methods
 import tkinter as tk
