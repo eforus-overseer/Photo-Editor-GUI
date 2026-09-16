@@ -297,13 +297,13 @@ path="./my_image1.jpg"
 target="./newIm.jpg"
 
 # display
-#newIm=rotatePicture(path, target)# עובד
-#newIm=mirrorPicture(path, target)  עובד
-#newIm= edge (path, target,15 ) # עובד
-#newIm= gaussBlur(path, target) #עובד
+#newIm=rotatePicture(path, target)# 
+#newIm=mirrorPicture(path, target)  
+#newIm= edge (path, target,15 ) # 
+#newIm= gaussBlur(path, target) #
 #im = Image.open(path) 
 #newIm=im.copy()
-#newIm=resizePicture(path,"") #עובד
+#newIm=resizePicture(path,"") #
 #newIm.show()
 #newPic.show()
 
