@@ -29,3 +29,11 @@ For a current installation guide and the maintained implementation, use the [new
 ## Preservation
 
 The unmodified historical snapshot is available on the [`legacy` branch](https://github.com/eforus-overseer/Photo-Editor-GUI/tree/legacy) and the [`v1.0.0-legacy` tag](https://github.com/eforus-overseer/Photo-Editor-GUI/tree/v1.0.0-legacy). This README was updated to explain the history and link the successor; the original application source remains unchanged. The 2018 creation date is the author's account, and may precede GitHub upload dates.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/photo-editor-gui/) — Read an archive walkthrough describing this repository's current state.
+<!-- demo-lab:end -->
