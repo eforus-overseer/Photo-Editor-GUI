@@ -37,3 +37,11 @@ The unmodified historical snapshot is available on the [`legacy` branch](https:/
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/photo-editor-gui/) — Read an archive walkthrough describing this repository's current state.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for Photo-Editor-GUI](assets/pixel-art.svg)
+
+A small visual signature for this repository.
